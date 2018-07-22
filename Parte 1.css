@@ -1,0 +1,22 @@
+body{
+	background-image: url("./img/cards/Troféu.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#Texto{
+	margin-top: 300px;
+}
+
+#Topo{
+	padding-top: 50px;
+}
+
+#foot{
+	position:absolute;
+	bottom: 0;
+	width: 100%
+}
+
+.brand-logo img{
+	margin-top: 7px;
+}
